@@ -1,7 +1,7 @@
 # https://github.com/stevenlovegrove/Pangolin/tree/master/examples/SimpleScene
 
 import OpenGL.GL as gl 
-import pangolin
+import pangolinpy as pangolin
 
 
 

@@ -1,6 +1,8 @@
 #include <pybind11/pybind11.h>
 #include <pybind11/stl.h>
 
+#include <GL/glew.h>
+
 #include "utils/params.hpp"
 #include "display/attach.hpp"
 #include "display/window.hpp"
@@ -32,7 +34,7 @@ namespace py = pybind11;
 
 namespace pangolin {
 
-PYBIND11_MODULE(pangolin, m) {
+PYBIND11_MODULE(pangolinpy, m) {
     
 
     // declaration order matters

@@ -3,7 +3,7 @@
 import numpy as np
 
 import OpenGL.GL as gl
-import pangolin
+import pangolinpy as pangolin
 
 
 def random_image(w, h):   # HWC

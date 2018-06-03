@@ -2,7 +2,7 @@
 # https://github.com/stevenlovegrove/Pangolin/blob/master/examples/SimplePlot
 
 import OpenGL.GL as gl 
-import pangolin
+import pangolinpy as pangolin
 
 import numpy as np
 
