@@ -66,7 +66,7 @@ setup(
     description='Python binding for lightweight 3D visualization library Pangolin.',
 	url='https://github.com/uoip/pangolin',
 	license='MIT',
-	keywords'Pangolin, binding, OpenGL, 3D, visualization, Point Cloud',
+	keywords='Pangolin, binding, OpenGL, 3D, visualization, Point Cloud',
     long_description="""This is a Python binding for c++ library Pangolin 
         (https://github.com/stevenlovegrove/Pangolin).
         Pangolin is a lightweight portable rapid development library for managing 
